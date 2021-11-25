@@ -1,0 +1,69 @@
+.row
+{
+    width: 100%;
+    height: 600px;
+    margin: auto;
+}
+
+.column
+{
+    width: 90%;
+    height: 20%;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.kuning
+{
+    background-color: yellow;
+    float: left;
+    width: 18%;
+    height: 99%;
+    border: 3px solid black;
+}
+
+.merah
+{
+    background-color: rgb(248, 79, 0);
+    float: right;
+    width: 80%;
+    height: 99%;
+    border: 3px solid black;
+}
+
+.column2
+{
+    width: 90%;
+    height: 60%;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.abu
+{
+    background-color: rgb(98, 104, 101);
+    float: left;
+    width: 60%;
+    height: 99%;
+    margin-left: 13px;
+    border: 3px solid black;
+}
+
+.ijo
+{
+    background-color: rgb(9, 255, 120);
+    float: right;
+    width: 18%;
+    height: 99%;
+    border: 3px solid black;
+}
+
+.biru
+{
+    background-color: rgb(0, 153, 255);
+    width: 90%;
+    height: 15%;
+    margin-left: 45px;
+    margin-top: 20px;
+    border: 3px solid black;
+}
