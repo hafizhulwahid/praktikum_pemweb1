@@ -1,0 +1,25 @@
+.flex-container 
+{
+    display: flex;
+    background-color: #f1f1f1;
+
+}
+
+.flex-container>div 
+{
+    color: black;
+    width: 100px;
+    margin: 0;
+    text-align: start;
+    font-size: 30px;
+}
+
+.flex-container>div>span 
+{
+    margin: 35px;
+}
+
+.flex-container>div>div>span 
+{
+    margin: 35px;
+}
